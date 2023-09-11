@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestTestTest
 {
@@ -10,6 +6,7 @@ namespace TestTestTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ihc mus hir iwas reinshreiben");
         }
     }
 }
